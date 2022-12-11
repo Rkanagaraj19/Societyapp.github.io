@@ -16,7 +16,7 @@ Alert Details:
 <button name="button" value="OK" type="button" onclick="hello()">Click Here</button>  
 <script>  
 function hello(){  
-alert("How can I see user details in Linux To list out all the users in Linux, use the awk command with Here, we are accessing a file and printing only first column with the help of print  Using id command, you can get the ID of any username.");  
+alert("User Sent an alert");  
 }  
 </script>  
 </form>
