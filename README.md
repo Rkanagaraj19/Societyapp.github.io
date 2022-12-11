@@ -2,7 +2,7 @@
 <Head>    
 <Title>   
 Society App Admin Page
-<h1> Society APP Admin Alert handling</h1>
+<h1> Society APP Admin Alert handling
 </Title>
 </Head>
 <Body> 
