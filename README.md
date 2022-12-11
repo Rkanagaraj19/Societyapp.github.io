@@ -1,11 +1,13 @@
 <Html>   
 <Head>    
 <Title>   
-Society App Admin Page
-<h1> Society APP Admin Alert handling
+
 </Title>
 </Head>
 <Body> 
+  Society App Admin Page
+  <h1> Society APP Admin Alert handling</h1>
+  
 Hello Admin <br> 
 <form>
 User Name:
