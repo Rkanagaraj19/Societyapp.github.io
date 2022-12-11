@@ -1,14 +1,9 @@
 App to help our elderly
-<!DOCTYPE HTML>
-<!-- This is how HTML comments look like -->
 <html>
-<!-- the title will appear on the page-->
 <head>
 <title>Society App Admin Page</title>
 </head>
 <body>
-<!-- as it is a survey form, we will need to submit the details, hence we use form -->
-<!-- We can give absolute url, or relative url like /nextpage.jsp, and specify POST or GET method -->
 <form action="Rkanagaraj19.github.io">
 <!-- If we remove this, every thing will move to the left of the page-->
 <div align="center">
