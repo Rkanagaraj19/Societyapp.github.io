@@ -1,25 +1,45 @@
 <Html>   
 <Head>    
-<Title>
-  Admin Webpage
+<Title>   
+Society App Admin Page
 </Title>
 </Head>
-<Body> 
-  Society App Admin Page
-  <h1> Society APP Admin Alert handling</h1>
-Hello Admin <br> 
-<form>
-User Name:
-<input type="text" name="Name" size="20">
-<br> <br>
-Alert Details:
-<input type="text" name="Course" size="15">
-<button name="button" value="OK" type="button" onclick="hello()">Click Here</button>  
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  
+#imagesize {
+  border:10px solid black;
+   background:url(https://i.ibb.co/KNQdKY3/mainbg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+</style>
+<Body>
+<div id="imagesize">
+<p style="text-align:center"><font size="10"> Society </font> </p>
+<p align="center">
+<button class="btn" name="button" value="OK" type="button" onclick="hello()">Check for Alerts</button></p>  
 <script>  
 function hello(){  
-alert("User Sent an alert");  
+alert("Alert found: Id45886");  
 }  
 </script>  
-</form>
+</form><br>
+<br>
+<a href="hospitaormedical.html"> <img src="https://i.ibb.co/QM6QK0Y/hospital-1.jpg" style="width:20%" alt="Hospitals" class="center"></a><br>
+<a href="https://www.facebook.com/"><img src="https://i.ibb.co/QM6QK0Y/hospital-1.jpg" style="width:20%" alt="Hospitals" class="center"></a><br>
+<a href="contactus.html"><img src=""><img src="https://i.ibb.co/QM6QK0Y/hospital-1.jpg" style="width:20%" alt="Hospitals" class="center"></a><br>
+</div>
 </Body> 
 </Html>
